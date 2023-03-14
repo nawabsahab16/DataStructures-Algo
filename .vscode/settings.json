@@ -11,5 +11,6 @@
         "istream": "cpp",
         "numeric": "cpp",
         "streambuf": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

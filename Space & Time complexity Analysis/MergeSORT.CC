@@ -4,7 +4,6 @@
 #include<algorithm>
  using namespace std;
 
-
 int main() {
     int n;
     cin >> n;
@@ -14,6 +13,7 @@ int main() {
     for(int i =0; i<n; i++) {
         arr[i] = n-1;
     }
+
 
     auto start_time = clock();
     sort (arr.begin(), arr.end());
